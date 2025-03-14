@@ -11,5 +11,4 @@ func main() {
 		SetPowertrain("this powertrain").
 		SetChassis("this chassis").GetCar()
 	car.Show()
-	// car := carBuilder.
 }
