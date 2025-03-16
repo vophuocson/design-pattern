@@ -1,0 +1,1 @@
+# Ensure a class only has one instance
