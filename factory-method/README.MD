@@ -1,0 +1,1 @@
+# Use the Factory Pattern to create an object that allows its subclasses to decide which class to instantiate.
