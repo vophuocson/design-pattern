@@ -1,9 +1,9 @@
 package command
 
 import (
-	"design-pattern-practice/command/command"
-	"design-pattern-practice/command/invoker"
-	"design-pattern-practice/command/receiver"
+	"design-pattern-practice/command/medical-example/command"
+	"design-pattern-practice/command/medical-example/invoker"
+	"design-pattern-practice/command/medical-example/receiver"
 )
 
 func main() {

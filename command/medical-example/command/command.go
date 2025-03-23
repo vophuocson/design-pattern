@@ -1,6 +1,6 @@
 package command
 
-import "design-pattern-practice/command/receiver"
+import "design-pattern-practice/command/medical-example/receiver"
 
 type Command interface {
 	Execute()

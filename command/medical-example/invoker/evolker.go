@@ -1,6 +1,6 @@
 package invoker
 
-import "design-pattern-practice/command/command"
+import "design-pattern-practice/command/medical-example/command"
 
 type Button struct {
 	Command command.Command
