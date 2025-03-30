@@ -1,6 +1,6 @@
 package mediator
 
-type Service interface {
+type service interface {
 	Execute() error
 }
 
@@ -9,9 +9,9 @@ type IMediator interface {
 }
 
 type OrderCreationMediator struct {
-	OrderService    Service
-	PaymentService  Service
-	ShippingService Service
+	OrderService    service
+	PaymentService  service
+	ShippingService service
 }
 
 func (m *OrderCreationMediator) Execute() error {
