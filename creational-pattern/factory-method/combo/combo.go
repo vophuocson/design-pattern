@@ -1,6 +1,6 @@
 package combo
 
-import "design-pattern-practice/factory-method/item"
+import "design-pattern-practice/creational-pattern/factory-method/item"
 
 type Combo interface {
 	ShowCombo()

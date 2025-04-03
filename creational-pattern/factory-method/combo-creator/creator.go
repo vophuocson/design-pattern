@@ -1,8 +1,8 @@
 package combocreator
 
 import (
-	"design-pattern-practice/factory-method/combo"
-	"design-pattern-practice/factory-method/item"
+	"design-pattern-practice/creational-pattern/factory-method/combo"
+	"design-pattern-practice/creational-pattern/factory-method/item"
 )
 
 type Creator interface {

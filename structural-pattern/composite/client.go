@@ -1,6 +1,6 @@
 package composite
 
-import "design-pattern-practice/composite/item"
+import "design-pattern-practice/structural-pattern/composite/item"
 
 func main() {
 	pdf := item.PDF{}
