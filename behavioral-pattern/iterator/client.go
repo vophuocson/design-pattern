@@ -1,7 +1,7 @@
 package iterator
 
 import (
-	"design-pattern-practice/iterator/iterator"
+	"design-pattern-practice/behavioral-pattern/iterator/iterator"
 	"fmt"
 )
 
