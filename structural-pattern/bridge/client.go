@@ -1,8 +1,8 @@
 package bridge
 
 import (
-	"design-pattern-practice/bridge/abstraction"
-	"design-pattern-practice/bridge/implementation"
+	"design-pattern-practice/structural-pattern/bridge/abstraction"
+	"design-pattern-practice/structural-pattern/bridge/implementation"
 )
 
 func Main() {

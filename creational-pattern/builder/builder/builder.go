@@ -1,6 +1,6 @@
 package builder
 
-import "design-pattern-practice/builder/product"
+import "design-pattern-practice/creational-pattern/builder/product"
 
 type CarBuilder interface {
 	SetPowertrain(string) CarBuilder

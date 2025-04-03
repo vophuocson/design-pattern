@@ -1,6 +1,6 @@
 package proxy
 
-import "design-pattern-practice/proxy/graphic"
+import "design-pattern-practice/structural-pattern/proxy/graphic"
 
 func main() {
 	var g graphic.Graphic

@@ -1,7 +1,7 @@
 package product
 
 import (
-	externalproduct "design-pattern-practice/adapter/external-product"
+	externalproduct "design-pattern-practice/structural-pattern/adapter/external-product"
 	"fmt"
 )
 

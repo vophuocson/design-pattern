@@ -1,6 +1,6 @@
 package decorator
 
-import "design-pattern-practice/decorator/component"
+import "design-pattern-practice/structural-pattern/decorator/component"
 
 func Main() {
 	var g component.Graph

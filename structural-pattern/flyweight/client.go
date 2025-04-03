@@ -1,8 +1,8 @@
 package flyweight
 
 import (
-	"design-pattern-practice/flyweight/actor"
-	"design-pattern-practice/flyweight/message"
+	"design-pattern-practice/structural-pattern/flyweight/actor"
+	"design-pattern-practice/structural-pattern/flyweight/message"
 
 	"github.com/google/uuid"
 )

@@ -1,6 +1,6 @@
 package abstraction
 
-import "design-pattern-practice/bridge/implementation"
+import "design-pattern-practice/structural-pattern/bridge/implementation"
 
 type Animal interface {
 	HowMove()

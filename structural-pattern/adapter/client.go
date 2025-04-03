@@ -1,8 +1,8 @@
 package adapter
 
 import (
-	externalproduct "design-pattern-practice/adapter/external-product"
-	"design-pattern-practice/adapter/product"
+	externalproduct "design-pattern-practice/structural-pattern/adapter/external-product"
+	"design-pattern-practice/structural-pattern/adapter/product"
 )
 
 func main() {

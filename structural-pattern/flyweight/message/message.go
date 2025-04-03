@@ -1,7 +1,7 @@
 package message
 
 import (
-	"design-pattern-practice/flyweight/actor"
+	"design-pattern-practice/structural-pattern/flyweight/actor"
 	"fmt"
 )
 

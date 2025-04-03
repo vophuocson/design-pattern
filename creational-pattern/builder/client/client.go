@@ -1,6 +1,6 @@
 package client
 
-import "design-pattern-practice/builder/builder"
+import "design-pattern-practice/creational-pattern/builder/builder"
 
 func main() {
 	var carBuilder builder.CarBuilder
